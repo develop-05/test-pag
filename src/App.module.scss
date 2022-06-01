@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+  color: red;
+}
+
+.input-news{
+  width: 500px;
+  margin-left: 160px;
+  height: 30px;
+  padding-left: 20px;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid rgb(121, 120, 120);
+}
+
+.pagination__arrow{
+  color: red;
+}
+
+.pag{
+  color: #8100EF;
+}
